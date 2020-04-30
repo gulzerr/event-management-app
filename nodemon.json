@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_USER" : "gulzer",
+        "MONGO_PASSWORD" : "e5FyrFiYLhGHaDYp",
+        "MONGO_DB": "events-react-dev"
+    }
+}
